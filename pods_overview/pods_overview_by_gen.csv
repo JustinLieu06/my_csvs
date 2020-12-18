@@ -1,4 +1,4 @@
-Date,Generation,Shipped,RMA,CIF,Activated,Not Activated,Online (All 7 days),Blinking (Online 1-6 days),Offline (All 7 days)
+Date,Generation,Shipped,RMA,CIF,Activated,Not Activated,Online,Blinking,Offline
 2020-08-01,PVT,160,53,107,84,23,33,0,51
 2020-08-01,PVT2,239,53,186,162,24,93,4,65
 2020-08-01,MP1,377,57,320,277,43,209,7,61
